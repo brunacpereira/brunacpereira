@@ -1,6 +1,6 @@
 ### Oii, eu sou a Bruna Pereira 👋
 
-- 🔭 Acadêmica de Ciência da Computação, hoje atuo como analista de sistemas
+- 🔭 Acadêmica de Sistemas de Informação, hoje atuo com análise e desenvolvimento de sistemas no setor bancário.
 - 🌱 Estudando C#
 
 
