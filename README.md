@@ -9,12 +9,15 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=brunacpereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunacpereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
     
  ##
  
 <h4>Principais linguagens e tecnologias utilizadas</h4>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruna-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Bruna-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+   <img align="center" alt="Bruna-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Bruna-Cobol" height="50" width="60" src="https://www.svgrepo.com/show/339080/cobol-language.svg">
   <img align="center" alt="Bruna-Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bruna-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,6 +26,7 @@
 </div>
 
 <div style="display: inline_block"><br>  
+  <img align="center" alt="Bruna-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
   <img align="center" alt="Bruna-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
   <img align="center" alt="Bruna-Jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />          
   <img align="center" alt="Bruna-VS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
